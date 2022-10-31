@@ -7,4 +7,4 @@
 |                               | `Diseñador UI`                |                                  |
 |María Alejndra Suárez Buitrago | `Tester`                      | maria5sb@hotmail.com             |
 |                               | `Diseñador de software`       |                                  |
-|                               | `Administrador configuración` |                                  |
+|Alexander Pardo                | `Administrador configuración` | alexanderpardo@outlook.com       |
