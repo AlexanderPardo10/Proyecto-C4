@@ -4,7 +4,7 @@
 | Nombre:                       | Roll:                         | Correo:                          |
 | ----------------------------  | ----------------------------  | -------------------------------  |
 |                               | `Lider de equipo`             |                                  |
-|                               | `Diseñador UI`                |                                  |
+|                               | `Diseñador UI`                |                                   |
 |María Alejndra Suárez Buitrago | `Tester`                      | maria5sb@hotmail.com             |
 |                               | `Diseñador de software`       |                                  |
 |Alexander Pardo                | `Administrador configuración` | alexanderpardo@outlook.com       |
