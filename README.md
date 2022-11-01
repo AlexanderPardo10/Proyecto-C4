@@ -4,7 +4,7 @@
 | Nombre:                       | Roll:                         | Correo:                          |
 | ----------------------------  | ----------------------------  | -------------------------------  |
 |                               | `Lider de equipo`             |                                  |
-|                               | `Diseñador UI`                |                                   |
+|Hugo Andres Ortega Olarte      | `Diseñador UI`                |andresort1010@gmail.com           |
 |María Alejndra Suárez Buitrago | `Tester`                      | maria5sb@hotmail.com             |
-|Hugo Andres Ortega Olarte      | `Diseñador de software`       |                                  |
+|                               | `Diseñador de software`       |              |
 |Alexander Pardo                | `Administrador configuración` | alexanderpardo@outlook.com       |
