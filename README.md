@@ -6,5 +6,5 @@
 |                               | `Lider de equipo`             |                                  |
 |                               | `Diseñador UI`                |                                   |
 |María Alejndra Suárez Buitrago | `Tester`                      | maria5sb@hotmail.com             |
-|                               | `Diseñador de software`       |                                  |
+|Hugo Andres Ortega Olarte      | `Diseñador de software`       |                                  |
 |Alexander Pardo                | `Administrador configuración` | alexanderpardo@outlook.com       |
